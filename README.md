@@ -1,8 +1,8 @@
-# KOLLEGE
+# EDUSPHERE
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-[kollege.onrender.com](https://kollege.onrender.com)
+
 
 A College Based Data Management System.
 
