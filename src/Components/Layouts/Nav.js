@@ -20,19 +20,19 @@ const Nav = () => {
         <NavLink to={"./paper"} className="w-full font-medium">
           <li className="flex gap-2 duration-200 rounded-md px-4 py-2 hover:bg-violet-600/40 ">
             <GiBookshelf className="pt-[0.1rem] text-2xl  " />
-            Papers
+            Student Election
           </li>
         </NavLink>
         <NavLink to={"./attendance"} className="w-full font-medium">
           <li className="flex gap-2 duration-200 rounded-md px-4 py-2 hover:bg-violet-600/40 ">
             <IoCalendarOutline className="pt-[0.1rem] text-2xl  " />
-            Attendance
+            Automated leave
           </li>
         </NavLink>
         <NavLink to={"./internal"} className="w-full font-medium">
           <li className="flex gap-2 duration-200 rounded-md px-4 py-2 hover:bg-violet-600/40 ">
             <HiOutlineDocumentReport className="pt-[0.1rem] text-2xl  " />
-            Internal Mark
+            Facility Booking
           </li>
         </NavLink>
         <NavLink to={"./time_schedule"} className="w-full font-medium">
